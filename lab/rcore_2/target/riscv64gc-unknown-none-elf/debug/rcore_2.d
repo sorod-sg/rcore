@@ -1,0 +1,1 @@
+/home/gfy/WorkSpace/2021-rcore/lab/rcore_2/target/riscv64gc-unknown-none-elf/debug/rcore_2: /home/gfy/WorkSpace/2021-rcore/lab/rcore_2/src/entry.asm /home/gfy/WorkSpace/2021-rcore/lab/rcore_2/src/main.rs /home/gfy/WorkSpace/2021-rcore/lab/rcore_2/src/sbi.rs
